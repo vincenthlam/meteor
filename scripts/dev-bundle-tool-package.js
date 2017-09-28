@@ -33,7 +33,7 @@ var packageJson = {
     fstream: "https://github.com/meteor/fstream/tarball/cf4ea6c175355cec7bee38311e170d08c4078a5d",
     tar: "2.2.1",
     kexec: "2.0.2",
-    "source-map": "0.5.3",
+    "source-map": "0.6.0",
     chalk: "0.5.1",
     sqlite3: "3.1.8",
     netroute: "1.0.2",

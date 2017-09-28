@@ -32,6 +32,8 @@
 
 * The `semver` npm package has been upgraded to version 5.4.1.
 
+* The `source-map` npm package has been upgraded to version 0.6.0.
+
 * The `source-map-support` npm package has been upgraded to version
   0.4.18.
 
