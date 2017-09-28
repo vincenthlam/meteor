@@ -32,6 +32,9 @@
 
 * The `semver` npm package has been upgraded to version 5.4.1.
 
+* The `source-map-support` npm package has been upgraded to version
+  0.4.18.
+
 * When running Meteor tool tests (i.e. `./meteor self-test`) during the
   course of developing Meteor itself, it is no longer necessary to
   `./meteor npm install -g phantomjs-prebuilt browserstack-webdriver`.

@@ -16,7 +16,9 @@ var packageJson = {
     // in the package too) because we should consider using lodash instead
     // (and there are backwards-incompatible changes either way).
     underscore: "1.5.2",
-    "source-map-support": "https://github.com/meteor/node-source-map-support/tarball/1912478769d76e5df4c365e147f25896aee6375e",
+    "source-map-support": "https://github.com/meteor/" +
+      "node-source-map-support/tarball/" +
+      "81bce1f99625e62af73338f63afcf2b44c6cfa5e",
     semver: "5.4.1"
   },
   // These are only used in dev mode (by shell.js) so end-users can avoid
